@@ -11,7 +11,6 @@ var abdullah = {
   },
   programming:{
   	languages:["javascript","python"],
-    frameworks:["vuejs","electronjs","django","expressjs","nuxtjs"],
     web:{
       frontend:{
         javascript:["vuejs","nuxtjs"],
@@ -23,6 +22,7 @@ var abdullah = {
         databases:["mongoDB","sqlite3","postgresql"]
       },
     },
+    desktop: ["electronjs"]
 	},
   social:{
     email:"abdullahveliyev2005@gmail.com",
