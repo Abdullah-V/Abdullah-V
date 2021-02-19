@@ -26,8 +26,9 @@ var abdullah = {
 	},
   social:{
     email:"abdullahveliyev2005@gmail.com",
-    github:"https://github.com/Abdullah-V",
-    telegram:"https://t.me/Abdullah_V_2005"
+    telegram:"https://t.me/Abdullah_V_2005",
+    twitter:"https://twitter.com/Abdullah_V_2005",
+    github:"https://github.com/Abdullah-V"
   }
 }
 ```
