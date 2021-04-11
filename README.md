@@ -5,6 +5,11 @@ var abdullah = {
     age:16,
     nationality: ["Turk","Azerbaijan"],
     pronouns: "He" | "Him",
+    location: {
+      country: "Azerbaijan",
+      city: "Baku",
+      flag: "🇦🇿"
+    },
     freeTimes: ["ride a bike","read a book","..."],
     languages: [{"Turkish":"native"},{"Englsih":"B2"},{"Arabic":"B1"}],
     askMeAbout: ["webdev","student","curious"]
