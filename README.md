@@ -12,7 +12,7 @@ var abdullah = {
   programming: {
     languages: ["javascript","python"],
     web: {
-      frontend:{
+      frontend: {
         javascript: ["vuejs","nuxtjs"],
         stylesheets: ["css","scss"]
       },
