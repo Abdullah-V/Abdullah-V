@@ -29,7 +29,7 @@ var abdullah = {
     },
     desktop: ["electronjs"] 
   },
-  social:{
+  social: {
     website: "https://dotslashroot.herokuapp.com",
     email: "abdullahveliyev2005@gmail.com",
     telegram: "https://t.me/Abdullah_V_2005",
