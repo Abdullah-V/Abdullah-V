@@ -2,7 +2,8 @@
 var abdullah = {
   info: {
     name: "Abdullah",
-    age: 16,
+    dateOfBorn: new Date(2005, 0, 26), // 26 January 2005
+    firstLineOfCode: new Date(2020, 3, 26), // 26 April 2020
     nationality: ["Turk", "Azerbaijan"],
     pronouns: "He" | "Him",
     location: {
@@ -12,7 +13,7 @@ var abdullah = {
     },
     freeTimes: ["ride a bike", "read a book", "..."],
     languages: [{"Turkish": "native"}, {"Englsih": "B2"}, {"Arabic": "B1"}],
-    askMeAbout: ["webdev", "student", "curious"]
+    askMeAbout: ["webdev", "student"]
   },
   programming: {
     languages: ["javascript", "python"],
