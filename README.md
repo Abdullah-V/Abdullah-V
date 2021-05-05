@@ -33,8 +33,10 @@ var abdullah = {
   social: {
     website: "https://dotslashroot.herokuapp.com",
     email: "abdullahveliyev2005@gmail.com",
-    telegram: "https://t.me/Abdullah_V_2005",
     twitter: "https://twitter.com/Abdullah_V_2005",
+    telegram: "https://t.me/Abdullah_V_2005",
+    discord: "https://discord.com/users/715280927575507034",
+    superpeer: "https://superpeer.com/abdullah-v",
     github: "https://github.com/Abdullah-V"
   }
 }
