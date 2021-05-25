@@ -4,11 +4,18 @@ var abdullah = {
     name: "Abdullah",
     dateOfBorn: new Date(2005, 0, 26), // 26 January 2005
     nationality: ["Turk", "Azerbaijan"],
-    pronouns: "He" | "Him",
+    pronouns: "He" || "Him",
     location: {
       country: "Azerbaijan",
       city: "Baku",
       flag: "🇦🇿"
+    },
+    company: {
+      name: "Producter",
+      website: "https://producter.co",
+      position: "Frontend developer",
+      location: "Remote",
+      since: new Date(2021, 4, 9) // 9 May 2021
     },
     firstLineOfCode: new Date(2020, 3, 26), // 26 April 2020
     freeTimes: ["ride a bike", "read a book", "..."],
