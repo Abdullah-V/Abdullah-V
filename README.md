@@ -43,6 +43,7 @@ var abdullah = {
     twitter: "https://twitter.com/Abdullah_V_2005",
     telegram: "https://t.me/Abdullah_V_2005",
     discord: "https://discord.com/users/715280927575507034",
+    clubhouse: "https://www.joinclubhouse.com/@Abdullah-V",
     superpeer: "https://superpeer.com/abdullah-v",
     github: "https://github.com/Abdullah-V"
   }
