@@ -45,6 +45,7 @@ var abdullah = {
     discord: "https://discord.com/users/715280927575507034",
     clubhouse: "https://www.joinclubhouse.com/@Abdullah-V",
     superpeer: "https://superpeer.com/abdullah-v",
+    linkedin: "https://linkedin.com/in/Abdullah-V",
     github: "https://github.com/Abdullah-V"
   }
 }
