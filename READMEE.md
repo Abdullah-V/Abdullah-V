@@ -46,8 +46,8 @@ var abdullah = {
     clubhouse: "https://www.joinclubhouse.com/@Abdullah-V",
     superpeer: "https://superpeer.com/abdullah-v",
     linkedin: "https://linkedin.com/in/Abdullah-V",
-    polywork: "https://poly.work/abdullah_V",
-    aboutMe: "https://about.me/abdullah_V",
+    polywork: "https://poly.work/abdullah_v",
+    aboutMe: "https://about.me/abdullah_v",
     github: "https://github.com/Abdullah-V"
   }
 }
